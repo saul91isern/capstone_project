@@ -1,5 +1,4 @@
-# Machine Learning Engineer Nanodegree
-## Project: Capstone Project
+# Project: Capstone Project
 
 ### Install
 
